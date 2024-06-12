@@ -1,5 +1,5 @@
 <template>
-    <p>Seeeeeeeeeee moooooooooooooooooooreeeeeeeeeeeeeeeeeeeee</p>
+    <p>simor</p>
   </template>
   
   <script>

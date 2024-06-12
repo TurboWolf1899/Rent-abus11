@@ -1,11 +1,11 @@
 <template>
   <div class="hello-world">
-      <h2 class="hello-world__title">Find a majstor!</h2>
-      <p class="hello-world__description">Vaše prvo mjesto za pronalazak majstora.</p>
-      <h3 class="odaberi">Odaberi majstora kojeg tražiš</h3>
+      <h2 class="hello-world__title">RENT - ABUS</h2>
+      <p class="hello-world__description">Najbolji abusi po najjeftinijoj cijeni</p>
+      
   </div>
 
-  <div class="poslovi">
+   <div class="poslovi">
     
     <div class="button-group">
       <button class="button" @click="$router.push('/adaptacije')">Adaptacije</button>

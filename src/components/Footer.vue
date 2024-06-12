@@ -29,7 +29,7 @@
   
   <style scoped>
   .footer {
-    background-color: #f5f5f5;
+    background-color: #e90c0c;
     border-top: 1px solid #e5e5e5;
     padding: 20px 0;
     width: 100%;
