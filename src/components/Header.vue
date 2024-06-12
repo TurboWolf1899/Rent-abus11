@@ -3,8 +3,11 @@
     <nav>
       <ul>
         <li><router-link to="/" id="EE">Početna</router-link></li>
+        <li><router-link to="/kontakt" id="EE">Usluge</router-link></li>
+        <li><router-link to="/kontakt" id="EE">Busevi</router-link></li>
+        <li><router-link to="/kontakt" id="EE">O nama</router-link></li>
         <li><router-link to="/kontakt" id="EE">Kontakt</router-link></li>
-        <li><router-link to="/majstorsam" id="majstor">Majstor sam!</router-link></li>
+      <!--  <li><router-link to="/majstorsam" id="majstor">Majstor sam!</router-link></li>-->
       </ul>
     </nav>
   </header>

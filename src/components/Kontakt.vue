@@ -1,8 +1,8 @@
 <template>
   <div class="title">
-    <h2 class="title-first">KONTAKTIRAJ NAS</h2>
+    <h2 class="title-first">KONTAKT</h2>
     <p class="title-desc">
-      Ako želiš postati naš partner ili samo imaš neko pitanje ili komentar, slobodno nam se javi!
+      Ako imate pitanja ili želite neku od naših usluga slobodno nam se javite!
     </p>
   </div>
 

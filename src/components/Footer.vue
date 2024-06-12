@@ -6,7 +6,8 @@
           
           </div>
           <div class="footer-info">
-            <p>&copy; Gule&Grac. All rights reserved.</p>
+            <p>&copy; Pelikanosi. All rights reserved.</p>
+            <p>Adresa: Ulica Baze Podataka 12B, Žorž Taun, Kajmanski otoci </p>
             <nav class="footer-nav">
               <ul>
                 <li><a href="#privacy">Privacy Policy</a></li>
