@@ -27,12 +27,16 @@ header {
   text-align: justify;
 }
 
+nav {
+  display: flex;
+  justify-content: center; /* Horizontalno centriranje */
+}
+
 nav ul {
   list-style: none;
-  margin: 4px;
-  padding: 4px;
+  margin: 0;
+  padding: 0;
   display: flex;
-  justify-content: flex-start;
 }
 
 nav li {
@@ -41,7 +45,7 @@ nav li {
 }
 
 #EE:hover {
-  color: #8559ff;
+  color:#00a1c2;
 }
 
 #majstor {

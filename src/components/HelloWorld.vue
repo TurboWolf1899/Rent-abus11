@@ -1,22 +1,30 @@
-<template>
+<template >
   <div class="hello-world">
       <h2 class="hello-world__title">RENT - ABUS</h2>
       <p class="hello-world__description">Najbolji abusi po najjeftinijoj cijeni</p>
-      
-  </div>
+      <img src="/img/pngwing.com.png" alt="" height="450px">
 
-   <div class="poslovi">
-    
-    <div class="button-group">
-      <button class="button" @click="$router.push('/adaptacije')">Adaptacije</button>
-      <button class="button" @click="$router.push('/arhitektura')">Arhitektura</button>
-      <button class="button" @click="$router.push('/bazeni')">Bazeni</button>
-      <button class="button" @click="$router.push('/bojleri')">Bojleri</button>
-      <button class="button" @click="$router.push('/ciscenje')">Čišćenje</button>
-      <button class="button" @click="$router.push('/elektroinstalacije')">Elektroinstalacije</button>
-      </div>
   </div>
-  <button class="seemore" @click="$router.push('/poslovi')">Vidi više</button>
+  <h3 style="text-align: center;">NAJPOPULARNIJE DESTINACIJE</h3>
+  <div class="slike">
+      <div class="slika">
+        <img src="/img/putokaz-beograd.jpg" alt="ne deluje" height="280px">
+        <p>KROEJŠA</p>
+      </div>
+      <div class="slika">
+        <img src="/img/kyrgyz.jpg" alt="ne deluje" height="280px">
+        <p>KYRGYZSTAN</p>
+      </div>
+      <div class="slika">
+        <img src="/img/libya.jpeg" alt="ne deluje" height="280px">
+        <p>LIBYA</p>
+      </div>
+      <div class="slika">
+        <img src="/img/dojč.jpg" alt="ne deluje" height="280px">
+        <p>DOJČLAND</p>
+      </div>
+    </div>
+
   <router-view />
 </template>
 
@@ -28,13 +36,16 @@ export default {
 
 </script>
 
+
 <style scoped>
+
 .hello-world {
   display: flex;
   flex-direction: column; /* ovo je zas mi je pre velik razmak dolje */
   align-items: center;
   padding: 20px;
   margin-bottom: 50px; /*a ovo to popravlja*/
+ 
 }
 
 .hello-world__title {
@@ -48,6 +59,22 @@ export default {
   color: #666;
   margin-bottom: 60px;
 }
+
+.slike {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.slika {
+  text-align: center;
+}
+
+.slika img {
+  margin-bottom: 10px;
+  margin-right: 5px;
+  margin-left: 5px;
+} 
 
 .odaberi{
   font-size: 32px;

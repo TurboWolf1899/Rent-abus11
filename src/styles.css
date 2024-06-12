@@ -8,7 +8,8 @@ body {
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #f0f0f0;
+    background: rgb(0, 161, 194);
+    background: linear-gradient(90deg, rgba(0, 161, 194, 1) 0%, rgba(255, 255, 255, 1) 100%);
 }
 
 header {
@@ -23,7 +24,8 @@ nav ul {
     margin: 4px;
     padding: 4px;
     display: flex;
-    justify-content: flex-start;
+    align-items: center;
+    justify-content: column;
 }
 
 nav li {
