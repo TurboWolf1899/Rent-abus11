@@ -2,7 +2,7 @@
   <div class="title">
     <h2 class="title-first">USLUGE</h2>
     <p class="title-desc">
-      Pelikan Transport nudi širok spektar transportnih usluga dizajniranih da zadovolje različite potrebe naših klijenata.
+      Pelikan Global Logistics&#8482; nudi širok spektar transportnih usluga dizajniranih da zadovolje različite potrebe naših klijenata.
     </p>
   </div>
   <div id="app">
