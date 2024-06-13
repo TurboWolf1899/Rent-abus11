@@ -1,48 +1,64 @@
 <template>
   <div class="title">
-    <h2 class="title-first">Bazeni</h2>
+    <h2 class="title-first">NAŠ ASORTIMAN ABUSA</h2>
     <p class="title-desc">
-      Bez obzira na veličinu ili namjenu vašeg projekta, kvalitetno izvedeni bazeni donose stabilnost, estetiku i
-      neusporedivu funkcionalnost svakom vanjskom prostoru, pretvarajući ga u središte obiteljskog okupljanja i osobnog
-      užitka.
+      Naš modernizirani i up to date vonzi park omogućuje našim zaposlenicima i korisnicima vrhunske uvjete rada po najnovijim standardima i uvjetima. Evo nekoliko voznih jedinica i modela koji krase naš asortiman:
     </p>
   </div>
-  <div class="posao">
-    <h3 class="subheading">Trebaš majstora?</h3>
-    <button class="button">Naruči uslugu</button>
-    <p class="paragraph">
-      Bazeni predstavljaju više od mjesta za osvježenje tijekom vrućih ljetnih dana; oni su centar okupljanja,
-      relaksacije i zabave za obitelj i prijatelje. Pravilnim planiranjem, dizajnom i održavanjem, bazen može postati
-      ključni element vašeg doma, pružajući ne samo užitak već i povećavajući vrijednost nekretnine.
-    </p>
-    <img class="adapt" src="../../img/bazen.jpg">
-    <p class="paragraph">
-      <b>Dizajn i izgradnja</b>: Izbor pravog dizajna bazena ključan je za usklađivanje s ukupnim estetskim izgledom vašeg doma
-      i dvorišta. Bilo da se odlučite za klasične pravokutne bazene, bazene nepravilnih oblika ili moderne beskonačne
-      bazene, važno je uzeti u obzir veličinu prostora, pristupačnost i vaše osobne potrebe.<br><br>
-
-      <b>Materijali i tehnologije</b>: Napredak u materijalima i tehnologijama omogućuje izgradnju bazena visoke kvalitete koji
-      zahtijevaju manje održavanja. Od fiberglasa do betonskih bazena s keramičkim pločicama, izbor materijala utječe na
-      dugovječnost, izgled i osjećaj vašeg bazena.<br><br>
-
-      <b>Oprema za bazene</b>: Pravilna oprema, poput filtera, pumpi i sustava za grijanje, ključna je za održavanje čistoće
-      vode i optimalne temperature. Također, dodaci poput podvodne rasvjete, protustrujnih uređaja za plivanje i
-      hidromasažnih sistema mogu obogatiti iskustvo korištenja bazena.<br><br>
-
-      <b>Sigurnost</b>: Sigurnost je primarna pri planiranju i izgradnji bazena. Ograde oko bazena, pokrivači za bazen i alarmi
-      za detekciju pada u vodu neki su od načina za osiguravanje sigurnog okruženja za djecu i kućne ljubimce.<br><br>
-
-      <b>Održavanje</b>: Redovito održavanje bazena, uključujući čišćenje, filtriranje i kemijsku ravnotežu vode, osigurava da
-      je bazen uvijek spreman za korištenje, sprječavajući razvoj algi i bakterija.<br><br>
-
-      <b>Pejzažno uređenje</b>: Integracija bazena s pejzažnim dizajnom dvorišta može stvoriti savršeno mjesto za opuštanje.
-      Biljke, staze, kamene obloge i vanjski namještaj pridonose stvaranju ugodne atmosfere.<br><br><br><br>
-
-
-      U zaključku, bazen je investicija koja pruža dugoročne koristi za zdravlje, dobrobit i društveni život. Bilo da
-      želite prostor za vježbanje, relaksaciju ili zabavu, bazen može biti savršeno rješenje koje će obogatiti vaš
-      životni prostor i stvoriti nezaboravne trenutke za vašu obitelj i prijatelje.
-    </p>
+  <div>
+    <div class="content-row">
+      <img src="/img/ABUS1.jpg" alt="Privatno iznajmljivanje" height="325px">
+      <div class="text-content">
+        <h3>SETRA 515 HD</h3>
+        <p>SETRA 515 HD, Reg.oznaka: ZG 6606 GP, Sjedala : 49+1+1
+        </p>
+      </div>
+    </div>
+    <hr>
+    <div class="content-row">
+      <img src="/img/ABUS2.jpg" alt="Poslovno iznajmljivanje" height="325px">
+      <div class="text-content">
+        <h3>SETRA 516HD</h3>
+        <p>SETRA 516HD, Reg.oznaka: ZG 2723-IZ, Sjedala : 57+1+1
+        </p>
+      </div>
+    </div>
+    <hr>
+    <div class="content-row">
+      <img src="/img/ABUS3.jpg" alt="Privatno iznajmljivanje" height="325px">
+      <div class="text-content">
+        <h3>MERCEDES TRAVEGO</h3>
+        <p>MERCEDES TRAVEGO, Reg.oznaka ZG 9449 IF: , Sjedala: 59+1+1
+        </p>
+      </div>
+    </div>
+    <hr>
+    <div class="content-row">
+      <img src="/img/ABUS4.jpg" alt="Poslovno iznajmljivanje" height="325px">
+      <div class="text-content">
+        <h3>SETRA 515HD</h3>
+        <p>SETRA 515HD, Reg.oznaka: ZG 8444-GR, Sjedala : 49+1+1
+        </p>
+      </div>
+    </div>
+    <hr>
+    <div class="content-row">
+      <img src="/img/ABUS5.jpg" alt="Privatno iznajmljivanje" height="325px">
+      <div class="text-content">
+        <h3>SETRA 516HD</h3>
+        <p>SETRA 516HD, Reg.oznaka: ZG 1112-IS, Sjedala : 83+1+1
+        </p>
+      </div>
+    </div>
+    <hr>
+    <div class="content-row">
+      <img src="/img/ABUS6.jpg" alt="Poslovno iznajmljivanje" height="325px">
+      <div class="text-content">
+        <h3>SETRA 516HD</h3>
+        <p>SETRA 516HD, Reg.oznaka: ZG 1393-IS, Sjedala : 53+2+1
+        </p>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -76,38 +92,26 @@ export default {
   flex-grow: 1;
 }
 
-.subheading {
-  font-size: 36px;
+.content-row {
+  display: flex;
+  align-items: center;
   margin-bottom: 20px;
 }
 
-.button {
-  font-size: 18px;
-  font-weight: bold;
-  border: none;
-  border-radius: 20px;
-  padding: 10px 20px;
-  cursor: pointer;
-  background-color: #cbb3ff;
+.content-row img {
+  margin-right: 20px;
 }
 
-.button:hover {
-  background-color: #a2a2ff;
+.text-content {
+  flex: 1;
 }
 
-.paragraph {
-  font-size: 18px;
-  color: #666;
-  margin-top: 40px;
-  margin-left: 300px;
-  margin-right: 300px;
-  flex-grow: 1;
+hr {
+  margin: 40px 0;
+  border: 1px solid #ccc;
 }
 
-.adapt {
-  width: 40%;
-  height: auto;
-}
+
 
 @media (max-width: 1200px) {
   .title-desc {
@@ -148,14 +152,5 @@ export default {
     margin-left: 50px;
   }
 
-  .paragraph {
-    margin-right: 50px;
-    margin-left: 50px
-  }
-
-  .adapt {
-    width: 80%;
-    height: auto;
-  }
 }
 </style>

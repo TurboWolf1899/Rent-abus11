@@ -77,11 +77,11 @@ export default {
   border-radius: 20px;
   padding: 10px 20px;
   cursor: pointer;
-  background-color: #cbb3ff;
+  background-color:#2ebfdd;
 }
 
 .button:hover {
-  background-color: #a2a2ff;
+  background-color: #00a1c2;
 }
 
 .paragraph {
@@ -149,7 +149,7 @@ export default {
 }
 
 .query-box {
-  border: 3px solid #cbb3ff;
+  border: 3px solid #52daf5;
   border-radius: 10px;
   padding: 20px;
   display: flex;
@@ -164,7 +164,7 @@ export default {
   width: 100%;
   padding: 10px;
   margin-bottom: 20px;
-  border: 1px solid #cbb3ff;
+  border: 1px solid #52daf5;
   border-radius: 5px;
   font-size: 16px;
 }
