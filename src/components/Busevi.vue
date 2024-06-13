@@ -2,7 +2,7 @@
   <div class="title">
     <h2 class="title-first">NAŠ ASORTIMAN ABUSA</h2>
     <p class="title-desc">
-      Naš modernizirani i up to date vonzi park omogućuje našim zaposlenicima i korisnicima vrhunske uvjete rada po najnovijim standardima i uvjetima. Evo nekoliko voznih jedinica i modela koji krase naš asortiman:
+      Naš modernizirani i up-to-date vozni park omogućuje našim zaposlenicima i korisnicima vrhunske uvjete rada po najnovijim standardima i uvjetima. Evo nekoliko voznih jedinica i modela koji krase naš asortiman:
     </p>
   </div>
   <div>
@@ -59,12 +59,21 @@
         </p>
       </div>
     </div>
+    <hr>
+    <div class="content-row">
+      <img src="/img/miniABUS.jpeg" alt="Poslovno iznajmljivanje" height="325px">
+      <div class="text-content">
+        <h3>Peugeot Traveller</h3>
+        <p>Peugeot Traveller, Reg.oznaka: ZG 9005-IT, Sjedala : 8+1
+        </p>
+      </div>
+    </div>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Bazeni'
+  name: 'Busevi'
 };
 
 </script>

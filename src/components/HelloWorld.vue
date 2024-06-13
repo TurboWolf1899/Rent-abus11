@@ -1,6 +1,6 @@
 <template >
   <div class="hello-world">
-    <h2 class="hello-world__title">PELIKAN TRANSPORT</h2>
+    <h2 class="hello-world__title">Pelikan Global Logistics&#8482;</h2>
       <h3 style="font-size: 70px;">RENT - ABUS</h3>
       <p class="hello-world__description">Najbolji abusi po najjeftinijoj cijeni</p>
       <img src="/img/pngwing.com.png" alt="" height="450px">

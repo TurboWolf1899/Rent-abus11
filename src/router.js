@@ -4,6 +4,7 @@ import Onama from './components/Onama.vue';
 import Busevi from './components/Busevi.vue';
 import Usluge from './components/Usluge.vue';
 import Kontakt from './components/Kontakt.vue';
+import Destinacije from './components/Destinacije.vue';
 
 const router = createRouter({
   history: createWebHistory(),
@@ -22,6 +23,11 @@ const router = createRouter({
       path: '/busevi',
       name: 'Busevi',
       component: Busevi
+    },
+    {
+      path: '/destinacije',
+      name: 'Destinacije',
+      component: Destinacije
     },
     {
       path: '/usluge',
