@@ -1,14 +1,9 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import HelloWorld from './components/HelloWorld.vue';
-import Adaptacije from './components/Adaptacije.vue';
-import Arhitektura from './components/Arhitektura.vue';
-import Bazeni from './components/Bazeni.vue';
-import Bojleri from './components/Bojleri.vue';
-import Ciscenje from './components/Ciscenje.vue';
-import Elektroinstalacije from './components/Elektroinstalacije.vue';
+import Onama from './components/Onama.vue';
+import Busevi from './components/Busevi.vue';
+import Usluge from './components/Usluge.vue';
 import Kontakt from './components/Kontakt.vue';
-import MajstorSam from './components/MajstorSam.vue';
-import Seemore from './components/Seemore.vue';
 
 const router = createRouter({
   history: createWebHistory(),
@@ -19,50 +14,25 @@ const router = createRouter({
       component: HelloWorld
     },
     {
-      path: '/adaptacije',
-      name: 'Adaptacije',
-      component: Adaptacije
+      path: '/onama',
+      name: 'Onama',
+      component: Onama
     },
     {
-      path: '/arhitektura',
-      name: 'Arhitektura',
-      component: Arhitektura
+      path: '/busevi',
+      name: 'Busevi',
+      component: Busevi
     },
     {
-      path: '/bazeni',
-      name: 'Bazeni',
-      component: Bazeni
-    },
-    {
-      path: '/bojleri',
-      name: 'Bojleri',
-      component: Bojleri
-    },
-    {
-      path: '/ciscenje',
-      name: 'Ciscenje',
-      component: Ciscenje
-    },
-    {
-      path: '/elektroinstalacije',
-      name: 'Elektroinstalacije',
-      component: Elektroinstalacije
+      path: '/usluge',
+      name: 'Usluge',
+      component: Usluge
     },
     {
       path: '/kontakt',
       name: 'Kontakt',
       component: Kontakt
     },
-    {
-      path: '/majstorsam',
-      name: 'MajstorSam',
-      component: MajstorSam
-    },
-    {
-      path: '/seemore',
-      name: 'Seemore',
-      component: Seemore
-    }
   ]
 });
 
