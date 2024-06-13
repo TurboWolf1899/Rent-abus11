@@ -2,7 +2,7 @@
     <div class="title">
       <h2 class="title-first">DESTINACIJE</h2>
       <p class="title-desc">
-        Pelikan Transport ponosno nudi prijevoz do raznih nerazvijenih destinacija diljem svijeta.
+        Pelikan Global Logistics&#8482; ponosno nudi prijevoz do raznih nerazvijenih destinacija diljem svijeta.
       </p>
     </div>
     <div>

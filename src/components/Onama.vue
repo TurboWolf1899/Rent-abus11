@@ -7,7 +7,7 @@
   </div>
   <div class="about-container">
     <h3 class="naslovi"><b>O NAMA</b></h3>
-    <p class="abt-txt">Mi smo obiteljska tvrtka s dugogodišnjim iskustvom u pružanju usluga prijevoza putnika. <b>PELIKAN TRANSPORT&#8482;</b> je osnovan s vizijom da osigura siguran, pouzdan i udoban prijevoz za naše klijente. Naša strast prema kvaliteti usluge i zadovoljstvu klijenata čini nas jednim od vodećih pružatelja usluga iznajmljivanja autobusa u regiji. Naša predanost visokim standardima usluge ogleda se u svakom aspektu našeg poslovanja, od prvog kontakta s klijentom do završetka putovanja.</p>
+    <p class="abt-txt">Mi smo obiteljska tvrtka s dugogodišnjim iskustvom u pružanju usluga prijevoza putnika. <b>PELIKAN GLOBAL LOGISTICS&#8482;</b> je osnovan s vizijom da osigura siguran, pouzdan i udoban prijevoz za naše klijente. Naša strast prema kvaliteti usluge i zadovoljstvu klijenata čini nas jednim od vodećih pružatelja usluga iznajmljivanja autobusa u regiji. Naša predanost visokim standardima usluge ogleda se u svakom aspektu našeg poslovanja, od prvog kontakta s klijentom do završetka putovanja.</p>
     
     <h4><b>Naša misija</b></h4>
     <p>Naša misija je pružiti vrhunsku uslugu prijevoza koja zadovoljava sve potrebe naših klijenata, bilo da se radi o školskim izletima, poslovnim putovanjima, turističkim turama ili posebnim događanjima. Posvećeni smo sigurnosti, udobnosti i točnosti, uz stalno nastojanje da premašimo očekivanja naših korisnika. Vjerujemo da putovanje nije samo prijevoz od točke A do točke B, već iskustvo koje treba biti ugodno i bez stresa.</p>
